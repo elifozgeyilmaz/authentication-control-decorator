@@ -1,2 +1,2 @@
 # authentication-control-decorator
-decorator that controls the authentication
+decorator that makes easier to controls the authentication
